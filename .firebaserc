@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "portfolio-adriano-3526d": {
+      "hosting": {
+        "portfolio-adriano": [
+          "portfolio-adriano-3526d"
+        ]
+      }
+    }
+  }
+}
